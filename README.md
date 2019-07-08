@@ -2,13 +2,11 @@
 [![sites](SoC/qitas.png)](http://www.qitas.cn) 
 #### 父级：[STM32F3](https://github.com/sochub/STM32F3)
 #### 架构：[Cortex M4](https://github.com/sochub/CM4) 
-### [芯片简介](https://github.com/sochub/STM32F301/wiki)
+### [STM32F301简介](https://github.com/sochub/STM32F301/wiki)
 
-STM32 F3系列与STM32 F1系列引脚兼容，扩大了STM32 Cortex-M4系列产品的阵容，现在ST Cortex-M4家族可提供低成本F3系列的和高性能的F4系列。
 
 ARM® Cortex®-M4 core (with FPU and DSP instructions) running at 72 MHz.
 
-STM32 F3系列包括带有64~256KB片上Flash存储器和48KB SRAM的器件，提供的封装选项包括WLCSP66（小于4.3 x 4.3 mm）、LQFP48、LQFP64、LQFP100和UFBGA100。
 
 [![sites](SoC/STM32F301.jpg)](https://www.st.com/content/st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f3-series/stm32f301.html) 
 
@@ -25,11 +23,13 @@ STM32 F3系列包括带有64~256KB片上Flash存储器和48KB SRAM的器件，�
 * PIN: 32 to 64 pins
 
 
-### [资源组成](https://github.com/sochub/STM32F301)
+### [收录资源](https://github.com/sochub/STM32F301)
 
 * [参考文档](docs/)
 * [参考资源](src/)
-* [模板工程](demo/)
+
+### [关联资源](https://github.com/sochub)
+
 * [编译工具](https://github.com/sochub/arm-none-eabi)
 
 ### [选型建议](https://github.com/sochub/STM32F301)
