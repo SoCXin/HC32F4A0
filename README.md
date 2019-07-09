@@ -2,11 +2,12 @@
 [![sites](SoC/qitas.png)](http://www.qitas.cn) 
 #### 父级：[STM32F3](https://github.com/sochub/STM32F3)
 #### 架构：[Cortex M4](https://github.com/sochub/CM4) 
+#### 收录芯片定级：[Level](https://github.com/sochub/Level)
 ### [STM32F301简介](https://github.com/sochub/STM32F301/wiki)
 
-
-ARM® Cortex®-M4 core (with FPU and DSP instructions) running at 72 MHz.
-
+[STM32F301](https://www.st.com/content/st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f3-series/stm32f301.html#overview) 系列产品基于
+Cortex®-M4 内核 (with FPU and DSP instructions) ，主频 72 MHz，有6款不同规格产品：
+32 to 64 Kbytes，32、48、64 pins
 
 [![sites](SoC/STM32F301.jpg)](https://www.st.com/content/st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f3-series/stm32f301.html) 
 
@@ -18,9 +19,6 @@ ARM® Cortex®-M4 core (with FPU and DSP instructions) running at 72 MHz.
 * 12-bit DACs
 * Ultra-fast 12-bit ADCs with 5 MSPS
 * Fast 144 MHz motor control timers (resolution 7 nanoseconds)
-
-* ROM: 32 to 64 Kbytes
-* PIN: 32 to 64 pins
 
 [![sites](SoC/STM32FP.jpg)](https://www.st.com/content/st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f3-series/stm32f301.html#resource)
 
