@@ -22,6 +22,7 @@ ARM® Cortex®-M4 core (with FPU and DSP instructions) running at 72 MHz.
 * ROM: 32 to 64 Kbytes
 * PIN: 32 to 64 pins
 
+[![sites](SoC/STM32FP.jpg)](https://www.st.com/content/st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f3-series/stm32f301.html#resource)
 
 ### [收录资源](https://github.com/sochub/STM32F301)
 
