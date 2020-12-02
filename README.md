@@ -1,44 +1,35 @@
-﻿# [STM32F301](https://github.com/sochub/STM32F301) 
-[![sites](SoC/qitas.png)](http://www.qitas.cn) 
-#### 父级：[STM32F3](https://github.com/sochub/STM32F3)
-#### 架构：[Cortex M4](https://github.com/sochub/CM4) 
-#### 收录芯片定级：[Level](https://github.com/sochub/Level)
-### [STM32F301简介](https://github.com/sochub/STM32F301/wiki)
+﻿# [STM32F301](https://github.com/SoCXin/STM32F301)
 
-[STM32F301](https://www.st.com/content/st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f3-series/stm32f301.html#overview) 系列产品基于
-Cortex®-M4 内核 (with FPU and DSP instructions) ，主频 72 MHz，有6款不同规格产品：
-32 to 64 Kbytes，32、48、64 pins
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-[![sites](SoC/STM32F301.jpg)](https://www.st.com/content/st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f3-series/stm32f301.html) 
+#### [Vendor](https://github.com/SoCXin/Vendor) ：[ST](http://www.essemi.com/)
+#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M4](https://github.com/SoCXin/CM4)
+#### [Level](https://github.com/SoCXin/Level) ：72MHz * 1.25DMIPS/MHz（245CoreMark）
+### [STM32F301简介](https://github.com/SoCXin/STM32F301/wiki)
 
+[STM32F301](https://www.st.com/content/st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f3-series/stm32f301.html#overview) 系列产品基于Cortex®-M4 内核
 
-### 关键参数：
+[![sites](docs/STM32F301.jpg)](https://www.st.com/zh/microcontrollers-microprocessors/stm32f301.html)
 
-* Up to three ultra-fast comparators (25 nanoseconds)
-* Op-Amp with programmable gain
-* 12-bit DACs
-* Ultra-fast 12-bit ADCs with 5 MSPS
-* Fast 144 MHz motor control timers (resolution 7 nanoseconds)
+### 关键特性
 
-[![sites](SoC/STM32FP.jpg)](https://www.st.com/content/st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f3-series/stm32f301.html#resource)
-
-### [收录资源](https://github.com/sochub/STM32F301)
+* 5MSPS的超快速12位ADC
+* 144 MHz电机控制定时器（分辨率7ns）
+* 快速比较器（25 ns）
+* 12位DAC
+### [收录资源](https://github.com/SoCXin/STM32F301)
 
 * [参考文档](docs/)
 * [参考资源](src/)
 
-### [关联资源](https://github.com/sochub)
+### [选型建议](https://github.com/SoCXin/STM32F301)
 
-* [编译工具](https://github.com/sochub/arm-none-eabi)
+在STM32F3系列中，[STM32F301](https://github.com/SoCXin/STM32F301), STM32F302, [STM32F303](https://github.com/SoCXin/STM32F303)的差异在资源的数量上，所以在固件较小对IO数量要求不多的情况下，[STM32F301](https://github.com/SoCXin/STM32F301)是FOC控制很好的选择。
 
-### [选型建议](https://github.com/sochub/STM32F301)
+* 相近替换方案 [STM32F303](https://github.com/SoCXin/STM32F303)
+* 差异替换方案 [STM32F373](https://github.com/SoCXin/STM32F373)
 
-在STM32F3系列中，[STM32F301](https://github.com/sochub/STM32F301), STM32F302, [STM32F303](https://github.com/sochub/STM32F303)的差异在资源的数量上，所以在固件较小对IO数量要求不多的情况下，[STM32F301](https://github.com/sochub/STM32F301)是FOC控制很好的选择。
-
-* 相同替换方案 [STM32F303](https://github.com/sochub/STM32F303) 
-* 差异替换方案 [STM32F373](https://github.com/sochub/STM32F373) 
-
-##  [SoC资源平台](http://www.qitas.cn)
+###  [SoC芯平台](http://www.SoC.Xin)
 
 
 
