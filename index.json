@@ -1,7 +1,7 @@
 {
-    "name":"CH545",
+    "name":"HC32F4A0",
     "Core":"8051",
-    "description":"1T 8051 CH545 MCU",
-    "url":"https://github.com/SoCXin/CH545",
+    "description":"1T 8051 HC32F4A0 MCU",
+    "url":"https://github.com/SoCXin/HC32F4A0",
     "version":"1.0.0"
 }
