@@ -2,10 +2,10 @@
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### [hdsc](https://www.hdsc.com.cn/)：[Cortex M4](https://github.com/SoCXin/CM4)
+#### [hdsc](https://www.hdsc.com.cn/)：[Cortex-M4](https://developer.arm.com/ip-products/processors/cortex-m/cortex-m4)
 #### [Level](https://github.com/SoCXin/Level)：240 MHz
 
-## [HC32F4A0简介](https://github.com/SoCXin/HC32F4A0/wiki)
+## [简介](https://github.com/SoCXin/HC32F4A0/wiki)
 
 [HC32F4A0](https://www.hdsc.com.cn/Category83-1499) 集成FPU、MPU，支持SIMD指令的DSP ，全指令跟踪单元ETM， 及CoreSight标准调试单元。最高工作主频 240MHz ，达到 300DMIPS或825Coremarks的运算性能。
 
