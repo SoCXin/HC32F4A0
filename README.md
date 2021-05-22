@@ -2,8 +2,10 @@
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### [hdsc](https://www.hdsc.com.cn/)：[Cortex-M4](https://developer.arm.com/ip-products/processors/cortex-m/cortex-m4)
-#### [Level](https://github.com/SoCXin/Level)：240 MHz
+[![Build Status](https://github.com/SoCXin/HC32F4A0/workflows/src/badge.svg)](https://github.com/SoCXin/HC32F4A0/actions/workflows/src.yml)
+
+*  [hdsc](https://www.hdsc.com.cn/)：[Cortex-M4](https://github.com/SoCXin/Cortex)
+*  [Level](https://github.com/SoCXin/Level)：240 MHz (300DMIPS,825Coremarks)
 
 ## [简介](https://github.com/SoCXin/HC32F4A0/wiki)
 
@@ -15,6 +17,12 @@
 #### 关键特性
 
 * 最大32个通信接口 (10xUSART)
+* 数学协处理单元（MAU），支持 Sin/Sqrt
+* 516KByte SRAM
+* 4ch 12bit 15MSPS DAC
+* 16个 50ps高分辨率 PWM（HRPWM）
+* 4个独立电压比较器（CMP）
+* 4个可编程增益放大器（PGA）
 #### 封装规格
 
 * LQFP176 24×24mm
